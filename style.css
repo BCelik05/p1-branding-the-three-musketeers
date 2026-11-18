@@ -3,14 +3,18 @@ body{
 }
 
 nav{
-    background-color: #370617;
+    background-color: #dc2f02;
+    border-bottom: 10px solid #370617;
     color: #ffffff;
-    padding: 40px;
     ul{
         list-style-type: none;
         display: flex;
         margin: 0;
         justify-content: space-evenly;
+        img{
+            width: 170px;
+            height: auto;
+        }
     }
 }
 
