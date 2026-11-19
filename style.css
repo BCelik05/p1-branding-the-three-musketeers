@@ -3,14 +3,14 @@ body{
 }
 
 nav{
-    background-color: #dc2f02;
-    border-bottom: 10px solid #370617;
+    background-color: #370117;
     color: #ffffff;
     ul{
         list-style-type: none;
         display: flex;
         margin: 0;
         justify-content: space-evenly;
+        align-items: center;
         img{
             width: 170px;
             height: auto;
@@ -20,7 +20,7 @@ nav{
 
 
 .section-tabel{
-    background-color: #f1f1f1;
+    background-color: #03071e;
     padding: 40px;
     display: flex;
     max-width: 100%;
